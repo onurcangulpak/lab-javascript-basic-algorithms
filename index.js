@@ -1,4 +1,8 @@
 // Iteration 1: Names and Input
+const hacker1 = "Onur";
+console.log(`The driver's name is : ${hacker1}`);
+const hacker2 = "Can";
+console.log(`The navigator's name is : ${hacker2}`);
 
 const hacker1 = "Onur"; 
 const hacker2 = "Canaa"; 
